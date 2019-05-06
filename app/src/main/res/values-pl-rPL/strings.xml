@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="heighteng">Wprowadź swój wzrost (cm)</string>
+    <string name="weighteng">Wprowadź swoją wagę (kg)</string>
+    <string name="heightam">Wprowadź swój wzrost (cal)</string>
+    <string name="weightam">Wprowadź swoją wagę (lbs)</string>
+    <string name="toast1">Musisz wprowadzić swój wzrost i wagę</string>
+    <string name="toast2">Musisz wprowadzić swoją wagę</string>
+    <string name="toast3">Musisz wprowadzić swój wzrost</string>
+    <string name="toast4">Chyba próbujesz mnie oszukać. Proszę podaj prawidłowe dane.</string>
+    <string name="BMI">To jest twoje BMI:</string>
+    <string name="BMI3">Masz niedowagę, powinieneś trochę przytyć.</string>
+    <string name="BMI1">Jesteś wygłodzony, powinieneś udać się do szpitala.</string>
+    <string name="BMI2">Jesteś wychudzony, powinieneś udać się do lekarza.</string>
+    <string name="BMI4">Masz prawidłową wagę, trzymaj tak dalej.</string>
+    <string name="BMI5">Masz nadwagę, powinieneś jeść mniej.</string>
+    <string name="BMI6">Jesteś otyły, powinieneś jeść mniej i zacząć uprawiać jakiś sport.</string>
+    <string name="BMI7">Masz otyłość II stopnia (kliniczną), powinieneś udać się do dietetyka.</string>
+    <string name="BMI8">Masz otyłość III stopnia (skrajną), musisz pójść do lekarza.</string>
+    <string name="fat">otyłość</string>
+    <string name="skinny">wychudzenie</string>
+    <string name="normal">normalny</string>
+    <string name="send">Wyślij</string>
+    <string name="weightlose">Musisz schudnąć</string>
+    <string name="weightlose2">kg by mieć prawidłową wagę.</string>
+    <string name="weightlose3">lbs by mieć prawidłową wagę.</string>
+    <string name="weightgain">Musisz przytyć</string>
+    <string name="weightgain2">kg by mieć prawidłową wagę.</string>
+    <string name="weightgain3">lbs by mieć prawidłową wagę.</string>
+</resources>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="heighteng">Put your height (cm)</string>
+    <string name="weighteng">Put your weight (kg)</string>
+    <string name="heightam">Put your height (cal)</string>
+    <string name="weightam">Put your weight (lbs)</string>
+    <string name="toast1">You need to put your weight and height in</string>
+    <string name="toast2">You need to put your weight in</string>
+    <string name="toast3">You need to put your height in</string>
+    <string name="toast4">I think your lying to me. Please put your real weight and height</string>
+    <string name="BMI">This is your BMI:</string>
+    <string name="BMI1">You are starving, You need to go to see a doctor.</string>
+    <string name="BMI2">You are emaciated, You should visit doctor.</string>
+    <string name="BMI3">You are underweight, You should gain some weight.</string>
+    <string name="BMI4">You have good weight, very good, stay in shape.</string>
+    <string name="BMI5">You are overweight, You should eat less.</string>
+    <string name="BMI6">You are obese, You should stop eating to much and do some sports.</string>
+    <string name="BMI7">You have 2 degree obesity (clinical), You should visit doctor.</string>
+    <string name="BMI8">You have 3 degree obesity (extreme), You need to visit doctor.</string>
+    <string name="fat">obese</string>
+    <string name="skinny">emicated</string>
+    <string name="normal">normal</string>
+    <string name="send">send</string>
+    <string name="weightlose">You need to lose</string>
+    <string name="weightlose2">kg to have right weight.</string>
+    <string name="weightlose3">lbs to have right weight.</string>
+    <string name="weightgain">You need to gain</string>
+    <string name="weightgain2">kg to have right weight.</string>
+    <string name="weightgain3">lbs to have right weight.</string>
+</resources>
